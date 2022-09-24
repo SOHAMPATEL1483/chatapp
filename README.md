@@ -1,6 +1,7 @@
 # chatapp
 
 Frontend : Flutter
+
 Backend : FireBase
 
 Platforms : Web , Android
